@@ -1,0 +1,19 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2019-04-23T12:01:18Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "背景"
+        },
+        {
+            "name": "模型"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
